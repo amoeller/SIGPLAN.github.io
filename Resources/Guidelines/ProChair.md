@@ -3,13 +3,10 @@ layout: default
 title: "Guidelines for the Program Chair of a SIGPLAN Event"
 ---
 
-<!-- BCP: This page seems to have bitrotted a bit, for instance in assuming
-     all submissions are using two-column format (no mention of PACMPL) and
-     being processed by Sheridan.  Needs a careful updating pass. -->
+These guidelines are primarily intended for Program Chairs of SIGPLAN-sponsored conferences.
+For organizers of workshops and similar events, see [this page](/Resources/Guidelines/Workshops).
 
-[N.b.: SIGPLAN rules are <span class="sigplan_rule">highlighted like
-this</span> to distinguish them from general recommendations and
-discussion.]
+This document uses "Program Committee (PC)" and "Program Chair (PCC)" as generic terms. For PACMPL conferences, these correspond to the Review Committee and Associate Editor roles defined in the [PACMPL procedures](https://sigplan.org/PACMPL/pacmpl_procedures.pdf).
 
 Executive Summary
 -----------------
@@ -25,21 +22,17 @@ skim the rest of this page and the following others:
 - SIGPLAN's [republication policy](/Resources/Policies/Republication)
 - SIGPLAN's [code of conduct policy](/Resources/Policies/CodeOfConduct/)
 - SIGACCESS's [Guide to Creating a Conference Accessibility FAQ Page](http://www.sigaccess.org/welcome-to-sigaccess/resources/creating-a-conference-accessibility-faq-page/)
+
+Most importantly:
+
 - For a SIGPLAN-sponsored event, seek approval for the Program Committee
   from the SIGPLAN Vice-Chair, *before* sending invitations
 - Consult with the conference Steering Committee before diverging from any
   existing conventions
 - Make sure the Call for Papers makes potential authors aware of SIGPLAN's
   [Copyright policies](https://authors.acm.org/main.html).
-- Some special considerations for organizers of workshops and similar events
-  can be found on [this page](/Resources/Guidelines/Workshops).
 
 _Please help us keep this document (and the rest of this site) up to date:_ If you notice any errors, duplications, inconsistencies, etc., please inform the [SIGPLAN vice chair](mailto:vc_sigplan@acm.org).
-
-Terminology
------------
-
-This document uses "Program Committee (PC)" and "Program Chair (PCC)" as generic terms. For PACMPL conferences, these correspond to the Review Committee and Associate Editor roles defined in the [PACMPL procedures](https://sigplan.org/PACMPL/pacmpl_procedures.pdf).
 
 Submission and Reviewing Policies
 ---------------------------------
@@ -49,12 +42,16 @@ Submission and Reviewing Policies
 
 The Program Chair (PCC) may not submit papers to the conference; SIGPLAN's
 Executive Committee recommends that the General Chair also not be
-allowed to submit papers. If Program Committee members are allowed to
-submit papers, either their papers should be held to a higher standard
-or other EC-approved measures should be taken, to avoid the appearance
-of impropriety.
+allowed to submit papers. 
 
-Conferences that use full double blind reviewing and have program committees with at least fifty members need not hold PC papers to a higher standard, as the EC has judged that these are sufficient conditions to avoid the appearance of impropriety. Here full double blind means submissions are anonymous, references to prior work are in the third person, authors' identities are not revealed until a paper is conditionally or fully accepted, and author identities for rejected papers (that were not conditionally accepted) are never revealed.
+If Program Committee members are allowed to submit papers, either their papers should be held to a 
+higher standard or other EC-approved measures should be taken, to avoid the appearance of impropriety. 
+Conferences that use full double blind reviewing and have program committees with at least fifty members 
+need not hold PC papers to a higher standard, as the EC has judged that these are sufficient conditions 
+to avoid the appearance of impropriety.
+Here full double blind means submissions are anonymous, references to prior work are in the 
+third person, authors' identities are not revealed until a paper is conditionally or fully accepted, 
+and author identities for rejected papers (that were not conditionally accepted) are never revealed.
 
 The PC Chair should make all program committee members and reviewers aware
 of SIGPLAN's policies on
@@ -130,9 +127,7 @@ Recommendations: <!-- AF: I don't think anything below can be a strict requireme
 - The PCC of year X+1 can be invited to serve on the PC (possibly with a lighter reviewing load) for year X as soon as he or she is selected.
 - The PCC should strive to avoid selecting PC members that collaborate regularly with each other or with the PCC, or PC members from the same institution in the exact same area.
   Institutional conflicts should only be considered to exist within individual campuses or organizational units (that are of comparable size to typical academic institutions elsewhere).
-- For conferences, all PC members should have PhDs (or other appropriate qualifications) by the submission deadline of the conference.  For affiliated workshops, the PC can include PhD students in their final year, as long as the total number does not exceed 10% (rounded up) the PC.
-
-
+- For conferences, all PC members should have PhDs (or other appropriate qualifications) by the submission deadline of the conference.  For affiliated workshops, the PC can include PhD students in their final year, as long as the total number does not exceed 10% of the PC.
 
 Call for Papers
 ---------------
@@ -158,7 +153,7 @@ copyright of the work and grants ACM an exclusive permssion-to-publish license;
 Author transfers copyright of the work to ACM.  For more information, please see
 [ACM Copyright
 Policy](http://www.acm.org/publications/policies/copyright-policy) and [ACM
-Author Rights](http://authors.acm.org/main.html).
+Author Rights](https://authors.acm.org/author-resources/author-rights).
 
 Proceedings published by ACM as an issue of PACMPL are Gold Open Access, and
 the PACMPL editorial board recommends the first option (author retains
@@ -290,7 +285,7 @@ Additional suggestions:
 - The PCC is encouraged to use a multi-round discussion process for papers where an initial consensus is not apparent.
 - The PCC can distinguish between contentious and marginal papers and  table all marginal papers until the end of the meeting to allow them to be systematically considered in the context of the emergent acceptance standard.
 
-- Managing the Proceedings
+Managing the Proceedings
 ------------------------
 
 The proceedings service by Conference Publishing Consulting (ConfPub)
@@ -435,14 +430,14 @@ Recommendations for Reviewing Process Management
 
 Keeping the same reviewing form has benefit for authors and reviewers as they can more easily calibrate  and interpret scores if the ratings are well understood. Nierstrasz' Identify the Champion scoring process has stood the test of time. A typical review form in the spirit of this process has (at least) the following fields:
 - Paper score:
-  --A: Good paper. I will champion it at the PC meeting.
-  --B: OK paper, but I will not champion it.
-  --C: Weak paper, though I will not fight strongly against it.
-  --D: Serious problems. I will argue to reject this paper.
+     - A: Good paper. I will champion it at the PC meeting.
+     - B: OK paper, but I will not champion it.
+     - C: Weak paper, though I will not fight strongly against it.
+     - D: Serious problems. I will argue to reject this paper.
 - Reviewer expertise:
-  --X: I am an expert in the subject area of this paper.
-  --Y: I am knowledgeable in the area, though not an expert.
-  --Z: I am not an expert. My evaluation is that of an informed outsider.
+     - X: I am an expert in the subject area of this paper.
+     - Y: I am knowledgeable in the area, though not an expert.
+     - Z: I am not an expert. My evaluation is that of an informed outsider.
 - Paper summary (reviewer’s synopsis provides a useful sanity check)
 - Points in favor (encourage positive reviewing)
 - Points against (be clear about principal objections)
@@ -455,22 +450,22 @@ Additionally:
 - The PCC may wish to identify major reviewer disagreements and papers without sufficient expertise and seek second opinions where necessary to help resolve the disagreements.
 - The PCC should allow all reviewers to see decisions for the papers they have reviewed before decisions are publicly announced.
 
-
 Important Email Addresses
 -------------------------
 
 _SIGPLAN Chair_:
 [chair\_sigplan@acm.org](mailto:chair_sigplan@acm.org)
+
 _SIGPLAN Vice Chair_:
 [vc\_sigplan@acm.org](mailto:vc_sigplan@acm.org)
+
 _SIGPLAN Information Director_:
 [infodir\_sigplan@acm.org](mailto:infodir_sigplan@acm.org?subject=Conference%20Information)
 
 See Also
 --------
 
-- ACM's *[How to Organize a Conference](http://www.acm.org/sigs/volunteer_resources/conference_manual/conference_manual-toc)* manual
-- [ACM's How to Organize a Conference](http://www.acm.org/sigs/volunteer_resources/conference_manual/manual_read_me)
+- ACM's *[SIG Conference Planning Guide](https://www.acm.org/special-interest-groups/volunteer-resources/conference-planning)*
 - SIGPLAN conference style [LaTeX class file](http://www.sigplan.org/sites/default/files/sigplanconf.cls),
   [article template](http://www.sigplan.org/sites/default/files/sigplanconf-template.tex), and
   [user guide](http://www.sigplan.org/sites/default/files/sigplanconf-guide.pdf)
