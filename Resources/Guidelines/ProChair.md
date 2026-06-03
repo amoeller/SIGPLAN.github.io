@@ -67,7 +67,7 @@ accepted way of organizing and running the conference.
 You, the Program Chair, in consultation with the General Chair, should
 decide on general policies relating to the program committee, such as:
 
-- Will you have a physical PC meeting?  If so, when and where will it be
+- What review-discussion and decision-making process will be used (in-person meeting, fully asynchronous online discussion, scheduled virtual meetings, or a hybrid process)?  If so, when and where will it be
   held?  If not, will the PC discussion be a "synchronous" teleconference or
   an extended discussion over email or moderated by some conference
   management platform?  (Whichever you choose, SIGPLAN expects all PC
@@ -106,9 +106,9 @@ EPC) is either (a) the actual SIGPLAN policy as I or other EC members
 understand it, or (b) consistent with current practice, or (c) a good
 idea! -->
 
-At the same time, make plans for the Program Committee meeting, so that
+At the same time, make plans for the review-discussion and decision process so that
 these can be communicated to potential PC members when you invite them:
-choose the location (if physical) and finalize the date(s).
+finalize key dates for online discussion periods and any virtual or in-person meetings.
 
 After SIGPLAN approval is confirmed, invite the people on the list to serve.
 Explain what is expected of them and any relevant
@@ -230,6 +230,8 @@ which the Chair is in conflict.
 PC Meeting
 ----------
 
+Most SIGPLAN events now conduct the program committee discussion online, using the HotCRP conference management system, possibly with one or more virtual meetings. An in-person PC meeting is no longer the default expectation and should be used only when it provides clear value for the event.
+
 Some SIGPLAN conferences have in-person PC meetings; others have moved to
 virtual meetings (to reduce carbon footprint, wear and tear on PC members,
 or both).
@@ -251,7 +253,7 @@ Before the PC meeting, decide on any policies that should be in effect, such as:
 - What are the rules of confidentiality?
 - Do you want to have a best paper award?
 
-### In-Person PC Meetings
+### In-Person PC Meetings (Optional)
 
 A physical PC meeting should be preceded by an extensive online discussion
 period. The online discussion period should be a minimum of one week, but
@@ -288,25 +290,7 @@ Additional suggestions:
 - The PCC is encouraged to use a multi-round discussion process for papers where an initial consensus is not apparent.
 - The PCC can distinguish between contentious and marginal papers and  table all marginal papers until the end of the meeting to allow them to be systematically considered in the context of the emergent acceptance standard.
 
-After the PC Meeting
---------------------
-
-<!-- BCP: This text is a bit out of date now that some conferences are on
-     PACMPL, though the Author.md page itself seems OK. -->
-<!-- BCP: However, putting the link to the latex style here seems dumb: it
-     should be earlier, in the advice about writing the CFP.  The only bit
-     here that is relevant _after_ the PC meeting is the first sentence,
-     which seems kind of obvious. -->
-
-Send acceptance and rejection letters as soon as possible after the PC
-meeting. Authors using LaTeX should be directed to the [template
-developed by SIGPLAN](/Resources/Author). This template was designed to
-allow more material in a paper while remaining easy on the eyes
-(typically, a paper that requires 12 pages with the standard ACM
-format requires 11 with the SIGPLAN format, and most readers find the
-SIGPLAN style easier to read).
-
-Managing the Proceedings
+- Managing the Proceedings
 ------------------------
 
 The proceedings service by Conference Publishing Consulting (ConfPub)
@@ -362,7 +346,7 @@ Help the Conference Chair prepare the post-event report for SIGPLAN EC.
      rule. -->
 
 As former Program Chair, you may be invited to serve on the
-conference's Steering Committee. For the  formal
+conference's Steering Committee. For the formal
 rules for your particular conference's steering committee, consult the relevant SIGPLAN
 conference web page. Links to these pages can be be found
 [here](/Conferences).
@@ -437,7 +421,7 @@ PC Member Responsibilities
 
 PC members must commit to reading all of their assigned papers and writing their own reviews.  PC members  may also suggest additional reviewers, but they should not subcontract reading or review writing duties to others. The PCC should be consulted before additional reviewers are contacted to avoid conflicts and to ensure topical balance.
 
-If there is an in-person PC meeting, then PC members must attend the PC meeting in-person. If the meeting is virtual, PC members must participate in the manner described in the invitation to join the PC.  Invited members who cannot commit to attending or participating in the meeting in person in the way the PC chair has specified should decline the invitation.
+If the conference uses a scheduled decision meeting (virtual or in-person), PC members should participate in the manner described in the invitation to join the PC.  Invited members who cannot commit to attending or participating in the meeting in person in the way the PC chair has specified should decline the invitation.
 
 _Recommendations:_
 
