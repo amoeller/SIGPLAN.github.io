@@ -36,6 +36,11 @@ skim the rest of this page and the following others:
 
 _Please help us keep this document (and the rest of this site) up to date:_ If you notice any errors, duplications, inconsistencies, etc., please inform the [SIGPLAN vice chair](mailto:vc_sigplan@acm.org).
 
+Terminology
+-----------
+
+This document uses "Program Committee (PC)" and "Program Chair (PCC)" as generic terms. For PACMPL conferences, these correspond to the Review Committee and Associate Editor roles defined in the [PACMPL procedures](https://sigplan.org/PACMPL/pacmpl_procedures.pdf).
+
 Submission and Reviewing Policies
 ---------------------------------
 
@@ -80,11 +85,11 @@ resource.
 Program Committee Selection
 ---------------------------
 
-In consultation with the General Chair<!-- And the rest of the SC? -->,
+In consultation with the General Chair (and the rest of the Steering Committee),
 develop a list of potential Program Committee members. In formulating this
 list, be mindful of [SIGPLAN's diversity
 policy](/Resources/Policies/Diversity).  Also, some people will decline the
-invitation, so your list should includes sufficient alternates.  The list
+invitation, so your list should include sufficient alternates.  The list
 should be finalized at least one year prior to the meeting.
 
 Download the [PC proposal
@@ -115,15 +120,16 @@ approval.
 Recommendations: <!-- AF: I don't think anything below can be a strict requirement -->
 
 - The PCC should strive to avoid the appearance of favoring current and former students, postdocs, colleagues, or collaborators for membership on the PC or ERC.
-- The size of the PC should be such that, given the expected number of submissions, will yield a reasonable reviewing load per PC member. Exceeding 25 papers per PC members is strongly discouraged.
+- The size of the PC should be such that, given the expected number of submissions, will yield a reasonable reviewing load per PC member. Exceeding 15 papers per PC members is strongly discouraged.
 - If there is an ERC, the same diversity criteria listed above should apply
   to them, scaled to the size of each committee.
   <!-- AF: confirm this -->
   <!-- BCP: Or better yet, change it to say that "the diversity criteria
        NEED NOT apply..."! -->
-- PC members should generally not serve on the PC more often than every four years. Exceptions may be made to enable a small overlap (<10%) from year to year to provide continuity. It is advisable that no one should serve on the PC for more than two years in a row. <!-- AF: The language is vague and PLDI is certainly breaking the four year rule -->
-- The PCC of year X+1 can be invited to serve on the PC (with a lighter reviewing load) for year X as soon as he or she is selected.
+- PC members should generally not serve on the PC more often than every three years. Exceptions may be made to enable a small overlap (<15%) to year to provide continuity. It is advisable that no one should serve on the PC for more than two years in a row.
+- The PCC of year X+1 can be invited to serve on the PC (possibly with a lighter reviewing load) for year X as soon as he or she is selected.
 - The PCC should strive to avoid selecting PC members that collaborate regularly with each other or with the PCC, or PC members from the same institution in the exact same area.
+  Institutional conflicts should only be considered to exist within individual campuses or organizational units (that are of comparable size to typical academic institutions elsewhere).
 - For conferences, all PC members should have PhDs (or other appropriate qualifications) by the submission deadline of the conference.  For affiliated workshops, the PC can include PhD students in their final year, as long as the total number does not exceed 10% (rounded up) the PC.
 
 
@@ -152,7 +158,7 @@ copyright of the work and grants ACM an exclusive permssion-to-publish license;
 Author transfers copyright of the work to ACM.  For more information, please see
 [ACM Copyright
 Policy](http://www.acm.org/publications/policies/copyright-policy) and [ACM
-Author Rights](http://authors.acm.org/main.html).  
+Author Rights](http://authors.acm.org/main.html).
 
 Proceedings published by ACM as an issue of PACMPL are Gold Open Access, and
 the PACMPL editorial board recommends the first option (author retains
@@ -445,14 +451,14 @@ Recommendations for Reviewing Process Management
 
 Keeping the same reviewing form has benefit for authors and reviewers as they can more easily calibrate  and interpret scores if the ratings are well understood. Nierstrasz' Identify the Champion scoring process has stood the test of time. A typical review form in the spirit of this process has (at least) the following fields:
 - Paper score:
-     --A: Good paper. I will champion it at the PC meeting.
-     --B: OK paper, but I will not champion it.
-     --C: Weak paper, though I will not fight strongly against it.
-     --D: Serious problems. I will argue to reject this paper.
+  --A: Good paper. I will champion it at the PC meeting.
+  --B: OK paper, but I will not champion it.
+  --C: Weak paper, though I will not fight strongly against it.
+  --D: Serious problems. I will argue to reject this paper.
 - Reviewer expertise:
-             --X: I am an expert in the subject area of this paper.
-             --Y: I am knowledgeable in the area, though not an expert.
-             --Z: I am not an expert. My evaluation is that of an informed outsider.
+  --X: I am an expert in the subject area of this paper.
+  --Y: I am knowledgeable in the area, though not an expert.
+  --Z: I am not an expert. My evaluation is that of an informed outsider.
 - Paper summary (reviewer’s synopsis provides a useful sanity check)
 - Points in favor (encourage positive reviewing)
 - Points against (be clear about principal objections)
